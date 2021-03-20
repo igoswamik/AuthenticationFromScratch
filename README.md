@@ -20,4 +20,8 @@ I have build an additional secret page. and an User can view secret page only if
 
 
 
+## App Screeshots
+
+![AuthDemo_](https://user-images.githubusercontent.com/51289274/111869192-239bff80-89a4-11eb-885b-f182ed1fe400.png)
+![AuthDemo_secret](https://user-images.githubusercontent.com/51289274/111869194-2565c300-89a4-11eb-81d9-dea4f6e2db90.png)
 
