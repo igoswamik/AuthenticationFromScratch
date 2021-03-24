@@ -1,7 +1,6 @@
 # AuthenticationFromScratch
 
-Its a very basic Authentication app which has features like Register, Login and Logout.
-I have build an additional secret page. and an User can view secret page only if He/She is logged in.
+It is a very basic Authentication app that has features like Register, Login, and Logout. I have built an additional secret page. and a User can view the secret page only if He/She is logged in.
 
 ## Technologies/Dependencies,
 >Node.js :Node. js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications.
